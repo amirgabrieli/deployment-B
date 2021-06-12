@@ -1,1 +1,1 @@
-TBD
+This page will reference https://github.com/aquasecurity/aqua-operator/blob/master/docs/DeployOpenShiftOperator.md and https://github.com/aquasecurity/aqua-operator/blob/master/deploy/crds/operator_v1alpha1_aquascanner_cr.yaml

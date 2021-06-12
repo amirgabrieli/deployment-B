@@ -1,3 +1,5 @@
+# Platform centric structure
+
 This deployments repo structure is platform centirc. It uses the unified path -  ***path::[Platform]/[Method]/[Component]/<deployment manifest/tool>***
 
 Pros -

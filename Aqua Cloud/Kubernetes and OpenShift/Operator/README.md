@@ -1,1 +1,1 @@
-TBD
+All the directories under ../Operator/ will only refernce the relevant section in https://github.com/aquasecurity/aqua-operator/blob/master/docs/DeployOpenShiftOperator.md, they will not include the actual CRDs.
